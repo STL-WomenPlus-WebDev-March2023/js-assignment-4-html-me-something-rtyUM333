@@ -2,7 +2,7 @@
 body {
     margin: 8px;
     display: block;
-    padding: 0px;
+    padding: 0px
   }
 
 main {
@@ -14,15 +14,15 @@ main {
 }
 
 #subHeading {
-    color: #283618
+    color: #082E4C
 }
 
 #bunny {
-    color: #05B3A1
+    color: #BC967B
 }
 
 #victim{
-    color: #05B3A1
+    color: #BC967B
 }
 
 .funParagraph{
