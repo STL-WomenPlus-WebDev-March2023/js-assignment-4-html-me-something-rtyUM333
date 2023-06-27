@@ -1,1 +1,26 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    padding: 0px;
+}
+
+#mainHeading {
+    color: red
+}
+
+#subHeading {
+    color: #283618
+}
+
+#bunny {
+    color: #05B3A1
+}
+
+#victim{
+    color: #05B3A1
+}
+
+.funParagraph{
+    color: #6b7b73
+}
