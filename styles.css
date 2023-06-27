@@ -3,6 +3,10 @@ body {
     margin: 8px;
     display: block;
     padding: 0px;
+  }
+
+main {
+    padding: 10px
 }
 
 #mainHeading {
